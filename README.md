@@ -1,8 +1,16 @@
-## Hi there 👋
+## Hi there, My name is Michael Gastambides 👋
+### About me: 
+### Currently I am a student at lehman college. My major is computer science
 
+### My coding skills:
+
+![My Skills](https://skillicons.dev/icons?i=java,py)
+
+## links:
+
+<a href = "https://www.linkedin.com/in/michael-gastambides-b49ba2351" /> <img src = "https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" height = "30" />
 <!--
 **MichaelG123-hub/MichaelG123-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
